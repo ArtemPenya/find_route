@@ -4,7 +4,7 @@ from cities.models import City
 
 
 class HtmlForm(forms.Form):
-    name = forms.CharField(label='Город')
+    name = forms.CharField(label='ХХХ')
 
 
 class CityForm(forms.ModelForm):

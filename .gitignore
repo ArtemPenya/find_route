@@ -1,1 +1,3 @@
 /venv/
+*.log
+local_settings.py

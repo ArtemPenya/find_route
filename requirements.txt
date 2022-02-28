@@ -1,0 +1,17 @@
+asgiref==3.5.0
+brew==0.1.3
+dj-database-url==0.5.0
+Django==4.0.1
+django-ckeditor==6.2.0
+django-js-asset==1.2.2
+django-modeltranslation==0.17.5
+fanstatic==1.1
+gunicorn==20.1.0
+js.hogan==3.0.0.3
+Pillow==9.0.0
+psycopg2-binary==2.9.3
+shutilwhich==1.1.0
+six==1.16.0
+sqlparse==0.4.2
+WebOb==1.8.7
+whitenoise==6.0.0
